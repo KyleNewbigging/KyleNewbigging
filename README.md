@@ -1,6 +1,7 @@
 - Hi, I’m @KyleNewbigging
 - I’m interested in Game Development and Software Development
-- I’m currently teaching grades 1 to 12 computer science
+- I’m currently teaching grades 1 to 12 computer science 
+- As well as managing natureclean.ca
 - Email: kyle.newbigging@gmail.com
 
 <!---
