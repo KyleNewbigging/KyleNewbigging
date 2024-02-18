@@ -1,5 +1,5 @@
 - Hi, I’m @KyleNewbigging
-- I’m interested in any type of Software Development with focus towards AI, full stack, game dev, and mobile apps.
+- I’m interested in any Software Development with focus towards AI, full stack, game dev, and mobile apps.
 - I’m currently teaching grades 1-12 a variety of computer science such as Python, HTML, CSS, JavaScript, Game Development, etc, as well as Robotics.
-- In addition to my part-time teaching job I am also the website manager for natureclean.ca and Frontend Developer for Lume.
+- In addition to my teaching job I am also the website manager for natureclean.ca and Frontend Developer for Lume Community Inc.
 - Email: kyle.newbigging@gmail.com
